@@ -123,7 +123,7 @@ body {
 	width: 6.5%;
 	height: 100%;
 	background-color: #ECECEC;
-	background-image: url('http://localhost:3000/Styling/if_send-01_186386.png');
+	background-image: url('./public/Styling/if_send-01_186386.png');
 	background-size: 60% 60%;
 	background-repeat: no-repeat;
 	background-position: 12px center;
